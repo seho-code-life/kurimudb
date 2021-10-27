@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,b as r}from"./app.197c0aa2.js";const f='{"title":"","description":"","frontmatter":{},"relativePath":"drivers/custom-driver.md","lastUpdated":1629736580128}',s={},o=r("p",null,"\u5F85\u7EED \u{1F438}",-1),c=[o];function n(_,d,i,p,l,m){return a(),e("div",null,c)}var v=t(s,[["render",n]]);export{f as __pageData,v as default};
